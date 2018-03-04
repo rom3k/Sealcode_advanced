@@ -4,4 +4,4 @@
 `Prace_domowe` zawiera zadania zrobione w domu.
 
 ## Materiały
-[Warsztaty](warsztaty.sealcode.org)
+[Warsztaty](https://warsztaty.sealcode.org)

@@ -5,3 +5,14 @@
 
 ## Materiały
 [Warsztaty](https://warsztaty.sealcode.org)
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+ :joy: :ok_hand:

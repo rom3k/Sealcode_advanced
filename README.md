@@ -15,4 +15,4 @@ while (alive) {
 }
 ```
 
- :joy: :ok_hand:
+ > &copy; Michał Romaszkin 2018

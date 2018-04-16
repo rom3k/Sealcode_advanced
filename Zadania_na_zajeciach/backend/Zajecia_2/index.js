@@ -7,7 +7,7 @@ var app = express();
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
 
-
+var myJson = require('./messages.json');
 
 app.get('/messages', (req, res) => {
   res.json(myJson);

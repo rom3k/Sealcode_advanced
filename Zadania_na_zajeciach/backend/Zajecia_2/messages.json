@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"content": "Znowu był kontakt z salami",
+		"from": "Kuba",
+		"to": "Marcin"
+	},
+	{
+		"id": 2,
+		"content": "Wkurza mnie ten system rezerwacji",
+		"from": "Marcin",
+		"to": "Kuba"
+	}
+]

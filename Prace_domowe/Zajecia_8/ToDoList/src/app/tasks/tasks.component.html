@@ -1,7 +1,7 @@
 <div>
   <form>     
     <input #task type="text" placeholder="Add Task..."/>
-    <input type="button" value="Add" (click)="addTask(task.value)">
+    <input type="button" value="Add" (click)="addTask(task.value);task.value=''">
   </form>
     <ul *ngIf="tasks.length != 0">
       <li *ngFor="let element of tasks">

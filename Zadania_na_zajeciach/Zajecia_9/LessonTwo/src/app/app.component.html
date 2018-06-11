@@ -1,0 +1,6 @@
+<!-- <input type="text" [(ngModel)]="text">
+<app-inner-one [receivedText]="text" (out)="onOut($event)"></app-inner-one>
+<h3>{{ received }}</h3> -->
+
+<app-inner-one (outOne)="onOutFromOne($event)" [receivedFromTwo]="parentToOne"></app-inner-one>
+<app-inner-two (outTwo)="onOutFromTwo($event)" [receivedFromOne]="parentToTwo"></app-inner-two>
